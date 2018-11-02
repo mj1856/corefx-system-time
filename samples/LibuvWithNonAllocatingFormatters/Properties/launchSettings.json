@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "LibuvWithNonAllocatingFormatters": {
-      "commandName": "Project",
-      "commandLineArgs": "/ip:127.0.0.1:5000"
-    }
-  }
-}
